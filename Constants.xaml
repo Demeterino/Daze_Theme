@@ -65,10 +65,10 @@
     <!-- COMPLETITION STATUSES -->
        
     <!-- Statuses -->
-    <sys:String x:Key="CompletedStatus">Finished</sys:String>
-    <sys:String x:Key="BeatenStatus">Platinum</sys:String>
-    <sys:String x:Key="PlayingStatus">Endless</sys:String>
-    <sys:String x:Key="AbandonedStatus">Dropped</sys:String>
+    <sys:String x:Key="CompletedStatus">Completed</sys:String>
+    <sys:String x:Key="BeatenStatus">Beaten</sys:String>
+    <sys:String x:Key="PlayingStatus">Playing</sys:String>
+    <sys:String x:Key="AbandonedStatus">Abandoned</sys:String>
     <sys:String x:Key="PlayedStatus">Played</sys:String>
 
     
