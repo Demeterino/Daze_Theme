@@ -1,3 +1,10 @@
+# Fork info:
+- Added Competion status icons and placements
+- Created own set of icons
+- Removed Star rating code (since the actual fix didn't remove the stars)
+- Found a not easy way to make Completion status name change work (literally write it in the code itself)
+
+
 # Daze
 A minimal, rounded theme for [Playnite](https://github.com/JosefNemec/Playnite) Desktop.
 
